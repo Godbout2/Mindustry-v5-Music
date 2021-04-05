@@ -1,0 +1,7 @@
+name: "mindustry-v5-music"
+displayName: "Mindustry v5 Music"
+author: "[#FFA500]G[#FFFFFF]oose"
+description: "Just adds v5 music (which means that it adds game4.ogg to the game because all the other songs are the same)"
+version: "1.0"
+minGameVersion: "105"
+hidden: "true"
